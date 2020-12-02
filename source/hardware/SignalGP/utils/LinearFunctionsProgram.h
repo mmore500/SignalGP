@@ -8,8 +8,8 @@
 #include "emp/base/Ptr.hpp"
 #include "emp/base/vector.hpp"
 #include "emp/math/Random.hpp"
-#include "emp/matchbin/MatchBin.hpp"
-#include "emp/matchbin/matchbin_utils.hpp"
+#include "emp/matching/MatchBin.hpp"
+#include "emp/matching/matchbin_utils.hpp"
 #include "emp/math/Range.hpp"
 
 #include "../EventLibrary.h"
